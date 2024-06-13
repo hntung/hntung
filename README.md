@@ -9,8 +9,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hntung&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hntung&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+### Dev Meme
+<img src="https://www.google.com.vn/url?sa=i&url=https%3A%2F%2Fplaky.com%2Fblog%2Fprogramming-memes%2F&psig=AOvVaw1cHliv4qSsFlvcoXi4GEnV&ust=1718335852644000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCg6ojS14YDFQAAAAAdAAAAABAE" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hntung&icon=0&color=0)](https://visitcount.itsvg.in)
